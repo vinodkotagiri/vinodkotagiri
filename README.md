@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinodkotagiri" target="blank"><img src="https://img.shields.io/twitter/follow/vinodkotagiri?logo=twitter&style=for-the-badge" alt="vinodkotagiri" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Vinodkotagiri.netlify.app](Vinodkotagiri.netlify.app)
+- 👨‍💻 All of my projects are available at [https://vinodkotagiri.netlify.app](https://vinodkotagiri.netlify.app)
 
 - 📝 I regularly write articles on [Codingfsd.blogspot.com](Codingfsd.blogspot.com)
 
