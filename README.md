@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinodkotagiri.netlify.app](https://vinodkotagiri.netlify.app)
 
-- 📝 I regularly write articles on [Codingfsd.blogspot.com](Codingfsd.blogspot.com)
+- 📝 I regularly write articles on [https://codingfsd.blogspot.com](https://codingfsd.blogspot.com)
 
 - 💬 Ask me about **React,Node,Python,AI,ML**
 
