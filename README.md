@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vinod</h1>
-<h3 align="center">A passionate full-stack developer</h3><a href="https://app.daily.dev/vinodkotagiri"><img src="https://api.daily.dev/devcards/bb3ec2fde0d24ecb83728d775477c3c8.png?r=2x8" width="400" alt="Kotagiri Vinod's Dev Card"/></a>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodkotagiri&theme=onedark" alt="vinodkotagiri" /></a> </p>
-
+<h3 align="center">A passionate full-stack developer</h3>
+<div style="display:flex">
+  <div style="width:200px;height:200px;">
+    <a href="https://app.daily.dev/vinodkotagiri">
+      <img src="https://api.daily.dev/devcards/bb3ec2fde0d24ecb83728d775477c3c8.png?r=2x8" width="400" alt="Kotagiri Vinod's Dev Card"/>
+    </a>
+  </div>
+  
+  <div>
+    <p align="right">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=vinodkotagiri&theme=onedark" alt="vinodkotagiri" />
+      </a> 
+      </p>
+    <div>
+</div>
 <p align="left"> <a href="https://twitter.com/vinodkotagiri" target="blank"><img src="https://img.shields.io/twitter/follow/vinodkotagiri?logo=twitter&style=for-the-badge" alt="vinodkotagiri" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://vinodkotagiri.netlify.app](https://vinodkotagiri.netlify.app)
