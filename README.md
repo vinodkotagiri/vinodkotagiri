@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinod</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<div style="display:flex">
-  <div style="width:200px;height:200px;">
-    <a href="https://app.daily.dev/vinodkotagiri">
-      <img src="https://api.daily.dev/devcards/bb3ec2fde0d24ecb83728d775477c3c8.png?r=2x8" width="400" alt="Kotagiri Vinod's Dev Card"/>
-    </a>
-  </div>
-  
   <div>
-    <p align="right">
+    <p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=vinodkotagiri&theme=onedark" alt="vinodkotagiri" />
       </a> 
@@ -21,11 +14,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vinodkotagiri](https://medium.com/@vinodkotagiri)
 
-- 💬 Ask me about **React,Node,Python,AI,ML**
+- 💬 Ask me about **javaScript,React,Node,Python,AI,ML**
 
 - 📫 How to reach me **Vinodkotagiri@icloud.com**
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
